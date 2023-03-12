@@ -1,3 +1,10 @@
+<img width="1265" alt="Ekran Resmi 2023-03-12 17 24 41" src="https://user-images.githubusercontent.com/3766249/224557545-06ed7479-3a82-48ff-bb7f-de2e3199cc35.png">
+
+<img width="1250" alt="Ekran Resmi 2023-03-12 17 25 33" src="https://user-images.githubusercontent.com/3766249/224557547-401be71d-0d92-41a1-be7e-d6a3ec06ca46.png">
+
+<img width="486" alt="Ekran Resmi 2023-03-12 17 26 19" src="https://user-images.githubusercontent.com/3766249/224557551-2b58b8e6-fedd-4ab6-be4d-4c384d9d1125.png">
+
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
